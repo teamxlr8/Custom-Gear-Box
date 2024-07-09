@@ -13,3 +13,6 @@ The pinion on the moitor runs at a 13,180 rpm which is powered by a Bag motor.
 This Bag motor is a VEX motor is a 13,180 rpm motor with 0.4 N-m stall torque.
 The 60 tooth gear connected to the output shaft by reduction gives a motor speed to 3,514 rpm.
 The reason that we have chosen to make the custom gear box is because we want to use a better motor. 
+Here's the link to access the CAD for the custom gearbox
+https://grabcad.com/library/custom-gearbox-3
+https://drive.google.com/file/d/15HoRaLY3t5rEGp8NuojFlwkP93zTSltt/view?usp=sharing
